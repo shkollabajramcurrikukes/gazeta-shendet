@@ -16,9 +16,6 @@ Ajo përmban artikuj informues mbi:
 ## 🎯 Qëllimi
 Qëllimi i këtij projekti është të rrisë ndërgjegjësimin për rëndësinë e kujdesit ndaj trupit dhe mendjes dhe të nxisë zakone të mira në jetën e përditshme.
 
-## 🌐 Shiko faqen
-👉 (vendos këtu linkun tënd nga GitHub Pages)
-
 ## 👨‍🎓 Autorët
 Nxënësit e shkollës 9-vjeçare “Bajram Curri”, Kukës
 
